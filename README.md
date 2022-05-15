@@ -1,1 +1,1 @@
-# syl-graduation-assignment
+# Graduation assignment
