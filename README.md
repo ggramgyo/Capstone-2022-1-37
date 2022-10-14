@@ -40,3 +40,54 @@
 나중 유튜브 링크 넣을 곳
 # 5. 사용법
 
+1. git에서 파일 내려 받기
+'''git clone'''
+
+2. package 내려 받기
+'''npm install'''
+
+
+3. Offchain-Backend 폴더에 .env 파일 생성
+'''
+COOKIE_SECRET=
+KAKAO_ID=
+'''
+4. Frontend 폴더에 .env 파일 생성
+'''
+REACT_APP_INFURA_PROJECT_ID=
+REACT_APP_INFURA_PROJECT_SECRET=
+REACT_APP_INFURA_PROJECT_GATEWAY=
+REACT_APP_S3_BUKET_NAME= 
+'''
+5. Offchain-Backend 폴더에 config 폴더 생성 후 config.json 파일 생성
+'''
+{
+    "development": {
+      "username": "root",
+      "password": "",
+      "database": "offchainDB",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+}
+'''
+
+6. 같은 폴더에 s3.json 파일 생성
+'''
+{
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "region": ""
+}
+  
+'''
+
+7. db Schema 생성
+'''
+sequelize db:create
+'''
+8. Frontend, Offchain-Backend 폴더에서 각각 실행
+'''
+npm start
+nodemon start
+'''
