@@ -10,7 +10,7 @@
 | 양민규 | @pusan.ac.kr | 역할 |
 | 이정학 | @pusan.ac.kr | 역할 |
 # 3. 구성도
-
+<img src="https://github.com/TEAMSYL/syl-graduation-assignment/issues/1#issue-1408747642">
 # 4. 시연 영상
 나중 유튜브 링크 넣을 곳
 # 5. 사용법
