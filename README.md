@@ -10,7 +10,7 @@
 | 양민규 | @pusan.ac.kr | 역할 |
 | 이정학 | @pusan.ac.kr | 역할 |
 # 3. 구성도
-<img src="user-images.githubusercontent.com/88009952/195762783-86411cd0-d261-4fd6-8457-f114ab6b1855.png">
+<img src="https://user-images.githubusercontent.com/88009952/195762783-86411cd0-d261-4fd6-8457-f114ab6b1855.png">
 # 4. 시연 영상
 나중 유튜브 링크 넣을 곳
 # 5. 사용법
