@@ -17,10 +17,9 @@
 # 2. 팀 소개
 | 이름 | 이메일 |역할 |
 | ------ | -- | ----------- |
-| 서재화 | woghk6761@pusan.ac.kr | +1|
-                                    +2 
-| 양민규 | tothedoor98@gmail.com | +1 +2 |
-| 이정학 | rbsctst98@pusan.ac.kr | +1 +2 |
+| 서재화 | woghk6761@pusan.ac.kr | +채팅서비스</br> +NFT관련 개발|
+| 양민규 | tothedoor98@gmail.com | +Smart Contract 개발</br> + Frontend|
+| 이정학 | rbsctst98@pusan.ac.kr | +Backend</br> + Frontend</br> + DB구축 |
 
 # 3. 구성도
 <img src="https://user-images.githubusercontent.com/88009952/195762783-86411cd0-d261-4fd6-8457-f114ab6b1855.png">
