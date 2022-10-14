@@ -96,6 +96,8 @@ sequelize db:create
 8. Frontend, Offchain-Backend 폴더에서 각각 실행
 ```
 npm start
+```
+```
 nodemon start
 ```
 
