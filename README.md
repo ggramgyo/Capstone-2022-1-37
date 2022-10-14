@@ -17,8 +17,8 @@
 # 2. 팀 소개
 | 이름 | 이메일 |역할 |
 | ------ | -- | ----------- |
-| 서재화 | woghk6761@pusan.ac.kr | 채팅, NFT관련 개발|
-| 양민규 | tothedoor98@gmail.com | 스마트컨트랙트 개발</br> Frontend|
+| 서재화 | woghk6761@pusan.ac.kr | Backend</br> Frontend</br> 채팅, NFT관련 개발|
+| 양민규 | tothedoor98@gmail.com | Backend</br> Frontend</br> 스마트컨트랙트 개발|
 | 이정학 | rbsctst98@pusan.ac.kr | Backend</br> Frontend</br> DB구축 |
 
 # 3. 구성도
