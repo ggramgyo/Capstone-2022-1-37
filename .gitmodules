@@ -1,0 +1,6 @@
+[submodule "Offchain-Backend"]
+	path = Offchain-Backend
+	url = https://github.com/TEAMSYL/Offchain-Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/TEAMSYL/Frontend.git
