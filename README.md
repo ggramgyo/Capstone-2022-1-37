@@ -37,10 +37,9 @@
   + Contract 비용을 줄이기 위해 User, 상품, 거래 내역 등 실제 Contract에서 거래가 이루어지는데 불필요한 정보는 DB에 저장
   
 # 4. 시연 영상
-나중 유튜브 링크 넣을 곳
-[![거래 과정](https://youtu.be/HzyO5dhleUg/0.jpg)](https://youtu.be/HzyO5dhleUg)
+[![스마트 컨트랙트 거래 과정](http://img.youtube.com/vi/HzyO5dhleUg/0.jpg)](https://youtu.be/HzyO5dhleUg?t=0s)
 
-NFT 거래 과정은 이더 테스트넷이 사용이 중지되어 사용 불가능.
+**NFT 거래 과정은 이더 테스트넷이 사용이 중지되어 사용 불가능.**
 # 5. 사용법
 
 
