@@ -38,7 +38,9 @@
   
 # 4. 시연 영상
 나중 유튜브 링크 넣을 곳
+[![거래 과정](https://youtu.be/HzyO5dhleUg/0.jpg)](https://youtu.be/HzyO5dhleUg)
 
+NFT 거래 과정은 이더 테스트넷이 사용이 중지되어 사용 불가능.
 # 5. 사용법
 
 
